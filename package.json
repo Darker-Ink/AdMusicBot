@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@discordjs/collection": "^0.4.0",
-    "@discordjs/opus": "^0.7.0",
+    "@discordjs/opus": "^0.8.0",
     "@discordjs/voice": "^0.7.5",
     "@distube/spotify": "^1.0.0",
     "alphalogger": "^1.2.1",
